@@ -3,7 +3,7 @@
 import { h } from "preact";
 import { tw } from "@twind";
 
-export default function Home() {
+export default function Team() {
   return (
     <div class={tw`w-screen h-screen bg-gray-900 text-white`}>
       <nav class={tw`relative px-6 py-6 flex justify-between-items-center`}>
