@@ -13,7 +13,7 @@ export default function Home() {
         </ul>
       </nav>
       <div class={tw`p-8 mx-auto max-w-screen-md`}>
-      <a href="/index">
+      <a href="https://yoop-home.deno.dev">
         <img
           src="/bread.svg"
           width="400px"

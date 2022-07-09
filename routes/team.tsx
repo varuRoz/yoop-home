@@ -14,12 +14,13 @@ export default function Home() {
         </ul>
       </nav>
       <div class={tw`p-8 mx-auto max-w-screen-md`}>
+      <a href="https://yoop-home.deno.dev/">
         <img
           src="/bread.svg"
           width="400px"
           class="mx-auto"
           alt="the yoop logo: cooler than sliced bread"
-        />
+        /></a>
         <p class={tw`my-10 text(center 2xl)`}>
           someday we'll have the team roster here
         </p>
